@@ -5,10 +5,9 @@ Real Reel
 Prateek Jain - https://github.com/archprateek
 
 ## Description
-Photographs that contain within themselves living elements giving a glimpse of time moving as well as preserved. If you look at Da Vinci's Monalisa, you are mesmerized by her smile. You play in your mind the movement of her lips seconds before and seconds after the moment was captured on canvas by Da Vinci. What if you can actually preserve the still as well as those lively seconds in one single art piece. What if your hairs can flow with wind in your best photograph !
+Photographs that contain within themselves living elements giving a glimpse of time moving as well as preserved. If you look at Da Vinci's Monalisa, you are mesmerized by her smile. You play in your mind the movement of her lips seconds before and seconds after the moment was captured on canvas by Da Vinci. What if you can actually preserve the still as well as those lively seconds in one single art piece. What if your hairs can flow with wind in your best photograph ! Real Reel will blend image and video into a beautiful cinemagraph.
 
-
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+I am a sketch artist by heart having a video advertising firm. This project morphs my two passions into one and preserve the best of both.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
